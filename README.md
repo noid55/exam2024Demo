@@ -1,12 +1,12 @@
-Readme formatteringen er litt rar på github aner ikke hvorfor, gå inn på fila og se på den i code view istede for preview. 
-Den fungerer fint på intellij preview for min del så håper det funker for dere også. 
 
+Readme formatteringen er litt rar på github aner ikke hvorfor, gå inn på fila og se på den i code view istede for preview. 
+
+Den fungerer fint på intellij preview for min del så håper det funker for dere også. 
 
 ## Eksamen 2024
 
 
 ### På selve eksamen:
-
 
 Prioritering av tid er viktig, multiple choice er 10% av poengene men det er potensielt noe man klarer å gå kjappere gjennom enn mer komplekse programmeringsoppgaver. Hvis du sitter fast på en oppgave kan det være lurt å hoppe videre til neste og se om du får til den istede. Ikke bli demotivert hvis begge oppgavene virker vanskelige eller du sliter med å forstå de. Du har fortsatt en del tid på eksamen til å tolke og prøve deg frem.
 
@@ -26,7 +26,6 @@ Merk at jeg gjennom koden skriver på norsk, dette er fordi jeg holder demo og s
 
 
 ### Oppgave 1 -
-
 
 Her kan dere enten lage en egen klasse kalt f.eks Oppgave 1, eller så kan dere gjøre den i Main klassen, men husk at metoden må være utenfor public static void main(String[] args) { } kodeblokka.
 
@@ -178,6 +177,5 @@ Dette kan vi også gjøre ved å referere til objektene som er lagret inne i arr
 Eller for ArrayList
 
 `System.out.println(gasList.get(0).gasname);`
-Tenk deg nå tilsvarende prosess, bare for de andre attributtene som du konkatinerer i en streng, og at istedenfor 0 så lar du telleren(altså i) i for løkka hente ut verdiene.#   e x a m 2 0 2 4 D e m o 
- 
- 
+Tenk deg nå tilsvarende prosess, bare for de andre attributtene som du konkatinerer i en streng, og at istedenfor 0 så lar du telleren(altså i) i for løkka hente ut verdiene.
+

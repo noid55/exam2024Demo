@@ -1,5 +1,7 @@
 ## Eksamen 2024
 
+
+
 ### På selve eksamen:
 
 Prioritering av tid er viktig, multiple choice er 10% av poengene men det er potensielt noe man klarer å gå kjappere gjennom enn mer komplekse programmeringsoppgaver. Hvis du sitter fast på en oppgave kan det være lurt å hoppe videre til neste og se om du får til den istede. Ikke bli demotivert hvis begge oppgavene virker vanskelige eller du sliter med å forstå de. Du har fortsatt en del tid på eksamen til å tolke og prøve deg frem.

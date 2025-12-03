@@ -1,9 +1,12 @@
 Readme formatteringen er litt rar på github aner ikke hvorfor, gå inn på fila og se på den i code view istede for preview. 
 Den fungerer fint på intellij preview for min del så håper det funker for dere også. 
 
+
 ## Eksamen 2024
 
+
 ### På selve eksamen:
+
 
 Prioritering av tid er viktig, multiple choice er 10% av poengene men det er potensielt noe man klarer å gå kjappere gjennom enn mer komplekse programmeringsoppgaver. Hvis du sitter fast på en oppgave kan det være lurt å hoppe videre til neste og se om du får til den istede. Ikke bli demotivert hvis begge oppgavene virker vanskelige eller du sliter med å forstå de. Du har fortsatt en del tid på eksamen til å tolke og prøve deg frem.
 
@@ -16,11 +19,14 @@ Prøv å lage en plan for fremgangsmåte før du begynner å kode, tenk på hvor
 Hvis du ikke får til helt riktig syntax på koden er ikke dette det største problemet, du kan få utttelling hvis du viser at du forstår logikken rundt hvordan oppgaven skal løses. Hvis du har dårlig tid prøv å få skrevet ned strukturen og ikke overfokuser på at ting skal være skrevet riktig.
 Hvis du sliter med å tolke oppgaveteksten kan du skrive antagelser som du har gjort, eller hvordan du har tolket oppgaven. Dette kan gi sensor innsikt i hvorfor og hvordan du har gjort som du har gjort.
 
+
 ### Min kode som jeg selv har skrevet i anledning demo:
 
 Merk at jeg gjennom koden skriver på norsk, dette er fordi jeg holder demo og snakker på norsk samtidig som jeg koder, derfor surrer jeg litt og dette blir enklere for meg. Dere burde absolutt skrive på engelsk og bli vant til dette. Tekstfelt sånn som Strings kan fint være på norsk men det er kanskje enklest å legge seg vanen og skrive på engelsk også. I verste fall, alltid unngå norske bokstaver i klasser, metoder og variabelnavn.
 
+
 ### Oppgave 1 -
+
 
 Her kan dere enten lage en egen klasse kalt f.eks Oppgave 1, eller så kan dere gjøre den i Main klassen, men husk at metoden må være utenfor public static void main(String[] args) { } kodeblokka.
 
@@ -32,6 +38,7 @@ Merk 2 ting:
 2. De ønsker at vi skal “undersøke” arrayet, det vil si at vi må teste etter om verdiene i arrayet har visse tilstander. Dette indikerer behov for if statements.
 
 Når vi kombinerer disse to kravene, skjønner vi at det trengs en for løkke med if statements inne i seg.
+
 
 ### Oppgave 2 -
 

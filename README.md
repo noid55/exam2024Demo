@@ -1,6 +1,7 @@
+Readme formatteringen er litt rar på github aner ikke hvorfor, gå inn på fila og se på den i code view istede for preview. 
+Den fungerer fint på intellij preview for min del så håper det funker for dere også. 
+
 ## Eksamen 2024
-
-
 
 ### På selve eksamen:
 

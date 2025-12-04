@@ -3,6 +3,9 @@ public class Oppgave2 {
     //Når vi oppretter et objekt av denne klassen, så vil verdien som ligger i lastResult tilhøre objektet, ikke klassen
     //Derfor vil ikke en static metode kunne hente ut verdier fra denne. Dette fordi static metoder tilhører klassen, ikke objektet.
 
+    //Denne verdien er ikke en del av løsningen, men som et eksempel på hva som skjer når man bruker static på attributter.
+    //Den tilhører nå ikke objektene som vi oppretter i main lengre ned lenger, men heller til klassen.
+    //Derfor blir outputtet annerledes, prøv å fjerne static selv, og se hvordan ting forandrer seg når du kjører koden.
     static private double lastResult;
 
     private static double dividedBy(String teller, String nevner){

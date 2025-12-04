@@ -3,9 +3,9 @@ public class Oppgave2 {
     //Når vi oppretter et objekt av denne klassen, så vil verdien som ligger i lastResult tilhøre objektet, ikke klassen
     //Derfor vil ikke en static metode kunne hente ut verdier fra denne. Dette fordi static metoder tilhører klassen, ikke objektet.
 
-    private double lastResult;
+    static private double lastResult;
 
-    public static double dividedBy(String teller, String nevner){
+    private static double dividedBy(String teller, String nevner){
         //Her kan dere enten begynne med å lage selve dele operasjonen først, altså bare gjøre teller / nevner også returnere denne verdien
         //Eller så kan dere begynne å teste for edge cases som 3 / -1, eller 3 / tre osv.
         double resultat;
@@ -31,7 +31,13 @@ public class Oppgave2 {
     }
 
     public static void main(String[] args) {
-        System.out.println(Oppgave2.dividedBy("3", "0"));
+        System.out.println(Oppgave2.dividedBy("0", "3"));
+        Oppgave2 objekt1 = new Oppgave2();
+        Oppgave2 objekt2 = new Oppgave2();
+        objekt1.lastResult = 11;
+        objekt2.lastResult = 22;
+        System.out.println(objekt1.lastResult);
+        System.out.println(objekt2.lastResult);
 
     }
 }

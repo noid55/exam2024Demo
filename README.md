@@ -14,7 +14,7 @@ Det er også oppgaver på powerpoint fra forelesning, i modul 12 og 13.
 Alle disse oppgavene baserer seg mer rundt hva slaks oppgaveinstrukser som dere kanskje kan få på eksamen. 
 
 ### På selve eksamen:
-
+ssdfshei jeg har n
 Husk at eksamen foregår på windows maskiner, med windows tastatur. Hvis dere ikke er kjent med windows tastatur burde dere sette av tid til å dra innom skolen og bruke noen av pcene her for å bli kjent med de.
 
 Dette var det flere som slet med på forrige eksamen: Insert knappen på tastaturet. Den forandrer skrivemåten. Hvis pekeren blir "fet" og du overskriver teksten midt i setningen din, er dette pga insert.  

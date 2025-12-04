@@ -39,5 +39,7 @@ public class Oppgave3 {
 
         Oppgave3 testOppgave3 = new Oppgave3();
         testOppgave3.guessTheAnimal(animalList);
+
     }
+
 }

@@ -1,6 +1,17 @@
 
-## Eksamen 2024
+## Eksamen 2024 gjennomgang
 
+### Forberedelse til eksamen
+
+I forhold til øving/forberedelser ville jeg anbefalt oppgavene markert med “Ekstra” på canvas, basert på Trym sin siste announcment. Disse finnes det 4 av. En under modulen “Modul 2 - Variabler, datatyper og brukerinput”, en under “Modul 4 - introduksjon til klasser og objekter 1”, en under “Modul 5 - introduksjon til klasser og objekter 2 - static” og siste under “Modul 6 - Kontrollstrukturer”.
+
+Jeg tror/håper alle disse har løsningsforslag? Jeg har ikke gjort de selv da de er nye fra i år så jeg har ikke oversikt desverre. Jeg ville uansett anbefalt dere til å prøve hardt og godt på egenhånd selv, før dere titter på løsningnsforslagene. Dere får mye bedre utbytte av læringen ved å stange huet litt i veggen, og kanskje dere får det til tilslutt også!
+Hvis dere sitter fast og det ikke er løsningsnforslag kan dere jo eventuelt spørre AI om hjelp, da ville jeg spurt om hjelp uten ferdigskrevet løsninger, be om hint og forklaring på konsepter/oppgavelyd, og spesifiser at du ikke ønsker at AI'et skal skrive kode for deg. Hvis du absolutt ikke får de til er det selvfølgelig greit å spørre om forslag på kode.
+Koden finner dere på github, som oftest blir det lenket til denne fra oppgavesidene (men vet at en av de mangler link, og noen av oppgavene tror jeg mangler løsningsforslag):  https://github.com/TrymAELindell/DAPE1400_2025
+
+Det er også oppgaver på powerpoint fra forelesning, i modul 12 og 13.
+
+Alle disse oppgavene baserer seg mer rundt hva slaks oppgaveinstrukser som dere kanskje kan få på eksamen. 
 
 ### På selve eksamen:
 

@@ -27,6 +27,10 @@ public class Main {
     }
 
     public static void main(String[] args) {
+        //Merk at ingen av koden som er i main kreves for å løse oppgaven.
+        //Her har jeg bare gjort dette i main for å vise logikken bak hva vi gjør i selve metoden over.
+        //Når dere eventuelt ville levert denne oppgaven så hadde dere gjort det med å bare kopiere koden ovenifra, og ikke noe fra main
+
         //Lager et array, her viser jeg hvordan du kan sjekke verdiene manuelt, men dette er ikke veldig praktisk.
         //I teorien kan du gjøre dette, men det er ikke dynamisk og vil bare sjekke ditt lokale Array.
         //Du kunne kanskje fått litt uttelling på oppgaven fordi du fortsatt viser at du skjønner litt kontrollstruktur (if setninger)

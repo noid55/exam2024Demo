@@ -4,6 +4,10 @@
 
 ### På selve eksamen:
 
+Husk at eksamen foregår på windows maskiner, med windows tastatur. Hvis dere ikke er kjent med windows tastatur burde dere sette av tid til å dra innom skolen og bruke noen av pcene her for å bli kjent med de.
+
+Dette var det flere som slet med på forrige eksamen: Insert knappen på tastaturet. Den forandrer skrivemåten. Hvis pekeren blir "fet" og du overskriver teksten midt i setningen din, er dette pga insert.  
+
 Prioritering av tid er viktig, multiple choice er 10% av poengene men det er potensielt noe man klarer å gå kjappere gjennom enn mer komplekse programmeringsoppgaver. Hvis du sitter fast på en oppgave kan det være lurt å hoppe videre til neste og se om du får til den istede. Ikke bli demotivert hvis begge oppgavene virker vanskelige eller du sliter med å forstå de. Du har fortsatt en del tid på eksamen til å tolke og prøve deg frem.
 
 Husk å lese oppgavetekster nøye, misforståelser eller feil implementasjon kan koste deg poeng.
@@ -14,6 +18,11 @@ Prøv å lage en plan for fremgangsmåte før du begynner å kode, tenk på hvor
 
 Hvis du ikke får til helt riktig syntax på koden er ikke dette det største problemet, du kan få utttelling hvis du viser at du forstår logikken rundt hvordan oppgaven skal løses. Hvis du har dårlig tid prøv å få skrevet ned strukturen og ikke overfokuser på at ting skal være skrevet riktig.
 Hvis du sliter med å tolke oppgaveteksten kan du skrive antagelser som du har gjort, eller hvordan du har tolket oppgaven. Dette kan gi sensor innsikt i hvorfor og hvordan du har gjort som du har gjort.
+
+Bruk av kommentarer kan være nyttig, det kan gi sensor innsikt i hva du har tenkt
+
+Generate funksjonen i IntelliJ er tilgjenlig. Her kan du spare en del tid hvis oppgaven bare vil at du skal skrive helt enkle konstruktører, get/set metoder eller toString. 
+Merk at på noen oppgaver så kan det være behov for å modifisere disse. F.eks validering av inputs i konstruktør eller settere. Eller modifisering av hva som blir skrevet ut og hvordan i toString (se oppgave 4 deloppgave 3)
 
 
 ### Min kode som jeg selv har skrevet i anledning demo:

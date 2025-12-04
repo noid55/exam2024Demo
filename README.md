@@ -81,6 +81,9 @@ Alle disse eksemplene er hint til hvordan metoden skal fungere, og at vi må gj�
 Dvs vi vil trenge flere if statments for å sjekke at metoden oppfører seg riktig.
 Har kan man igjen tenke seg opp mot at dette er noe tilsvarende validering av input tekst felt på en nettside.
 
+Som tips: Når man tar brukerinput direkte, er det ofte veldig gunstig å bruke try/catch. Dette tillator oss å fange opp inputs som kræsjer programmet i try blokka av koden, og gi tilbakemelding/feilmelding via catch blokka. 
+Kode som kjører i Try blir sjekket for feilmeldinger/kræsjer, og hvis dette intreffer så kjøres catch biten. Hvis ikke fortsetter koden å kjøre som vanlig og Try biten blir kjørt (og potensielt annen kode utenom try/catch).
+
 ### b) **Fra sensurveiledning:**
 
 “Et godt svar her vil inkludere forst ̊aelse for at metoden kun er avhengig av verdiene som
